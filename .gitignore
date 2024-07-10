@@ -5,3 +5,4 @@ node_modules
 *.xd
 *.sketch
 *.fig
+package-lock.json
