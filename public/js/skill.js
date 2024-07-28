@@ -27,5 +27,12 @@ const Work = [
     title: "Event Tracking",
     discription: "The project is a challenge inspired by Front-end mentors",
   },
+  {
+    id: 5,
+    link: "https://controlfinder.onrender.com",
+    img: "css/Images/6.png",
+    title: "Control Finder",
+    discription: "A web-based control finder and also a collaboration work",
+  }
 ];
 export default Work;
