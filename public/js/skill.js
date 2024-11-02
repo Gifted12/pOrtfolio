@@ -33,6 +33,20 @@ const Work = [
     img: "css/Images/6.png",
     title: "Control Finder",
     discription: "A web-based control finder and also a collaboration work",
+  },
+  {
+    id: 6,
+    link: "https://quiz-1-site.netlify.app",
+    img: "css/Images/8.png",
+    title: "Quiz site",
+    discription: "Responsive hard coded quiz site ",
+  },
+  {
+    id: 7,
+    link: "https://todo-1-list.netlify.app",
+    img: "css/Images/7.png",
+    title: "Todo site",
+    discription: "A responsive site were user can prepare their todo's",
   }
 ];
 export default Work;
