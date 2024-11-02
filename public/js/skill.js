@@ -37,14 +37,14 @@ const Work = [
   {
     id: 6,
     link: "https://quiz-1-site.netlify.app",
-    img: "css/Images/8.png",
+    img: "css/Images/8.jpg",
     title: "Quiz site",
     discription: "Responsive hard coded quiz site ",
   },
   {
     id: 7,
     link: "https://todo-1-list.netlify.app",
-    img: "css/Images/7.png",
+    img: "css/Images/7.jpg",
     title: "Todo site",
     discription: "A responsive site were user can prepare their todo's",
   }
